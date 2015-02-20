@@ -1,0 +1,27 @@
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 90px;
+  font-weight: bold;
+  margin: 20px;
+  text-align: center;
+}
+
+.sub-title {
+  width: 600px;
+  margin: 20px auto;
+}
+
+.content {
+  width: 700px;
+  font-size: 36px;
+  margin: auto;
+}
+
+.footer {
+  bottom: 0;
+}
